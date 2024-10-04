@@ -32,6 +32,8 @@ npm run dev
 npm run build
 ```
 
+### I didn't write any tests as the time was tight.
+
 ### Run Unit Tests with [Vitest](https://vitest.dev/)
 
 ```sh
